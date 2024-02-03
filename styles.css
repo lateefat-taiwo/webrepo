@@ -1,0 +1,45 @@
+body{
+  background-color: antiquewhite;
+  border: darkgrey;
+}
+
+.links {
+  font-size: 18px; 
+}
+
+.links a{
+  color: blue;
+  font-family: cursive;
+}
+
+.basic-info { 
+  color: darkslateblue;
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+}
+
+.basic-info h3{
+  font-size: 15px;
+}
+
+.details p{
+ font-size: large;
+ font-family: 'Times New Roman', Times, serif;
+ 
+}
+.details h2{
+  text-align: left;
+  font-weight: bolder;
+  font-size: medium;
+  font-size: 25px;
+  color: darkslateblue;
+}
+
+.picture {
+  float: left;
+  width: 100px;
+  padding: 5px;
+  border-radius: 50px;
+}
+
